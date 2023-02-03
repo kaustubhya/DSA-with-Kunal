@@ -1,4 +1,4 @@
-package Bit_Manipulation;
+package com.company;
 
 public class Flipping_An_Image_Google {
 //    Submitted in leetcode

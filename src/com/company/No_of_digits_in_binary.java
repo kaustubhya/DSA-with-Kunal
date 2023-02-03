@@ -1,4 +1,4 @@
-package Bit_Manipulation;
+package com.company;
 
 public class No_of_digits_in_binary {
     public static void main(String[] args){

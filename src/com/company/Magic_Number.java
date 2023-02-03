@@ -1,4 +1,4 @@
-package Bit_Manipulation;
+package com.company;
 
 public class Magic_Number {
 

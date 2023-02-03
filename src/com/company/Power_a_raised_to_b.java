@@ -1,4 +1,4 @@
-package Bit_Manipulation;
+package com.company;
 
 public class Power_a_raised_to_b {
     public static void main(String[] args) {

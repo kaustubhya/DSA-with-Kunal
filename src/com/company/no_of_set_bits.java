@@ -1,4 +1,4 @@
-package Bit_Manipulation;
+package com.company;
 
 public class no_of_set_bits {
     public static void main(String[] args) {
